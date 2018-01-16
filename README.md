@@ -156,9 +156,9 @@ ___
 * IMAGES : 
 
 ````markdown
-![GitHub Logo](Octocat.png)
+![GitHub Logo](Octocat.jpg)
 ````
-![GitHub Logo](Octocat.png)
+![GitHub Logo](Octocat.jpg)
 
 
 * LINK ( CTRL + K ) :
