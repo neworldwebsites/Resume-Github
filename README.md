@@ -111,6 +111,8 @@ Qui corrigera aussi dans develop
 
 * git remote add origin https://github.your.repository.git
 * git push origin master
+* git fetch origin master
+* git push origin master --force &nbsp; ( if no team ! )
 * git pull origin master
 * git diff HEAD
 * git add .
