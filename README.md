@@ -223,15 +223,16 @@ _You **can** combine them_
 
 * CODE :
 
-````markdown
+\`\`\`\`javascript
+
 ````javascript( any language name )
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
   }
-} ````
-
+} 
 ````
+\`\`\`\` <br>
 
 * TABLEAU :
  
