@@ -1,7 +1,7 @@
 					        	Github Quick Resume
 
 # Git Basics 
-> git help word-about<br>
+> git help &nbsp; word-about<br>
 > git config --global user.name "gilius"<br>
 
 * Git init
@@ -256,6 +256,10 @@ function fancyAlert(arg) {
 - [ ] Open a pull request
 ````
 
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
 * EMOJICODE :
 
 ````markdown
@@ -269,4 +273,15 @@ function fancyAlert(arg) {
 :1st_place_medal:     medaille
 :muscle:   strong
 ````
+
+:+1:       pouce up   :-1: pouce down
+:shipit:   man ready
+:sparkles: etoiles
+:camel:    chameau
+:boom:     expolion
+:key:      clé etc...
+:1234:     digits
+:1st_place_medal:     medaille
+:muscle:   strong
+
 
