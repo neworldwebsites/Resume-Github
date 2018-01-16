@@ -263,25 +263,27 @@ function fancyAlert(arg) {
 * EMOJICODE :
 
 ````markdown
-:+1:       pouce up   :-1: pouce down
-:shipit:   man ready
-:sparkles: etoiles
-:camel:    chameau
-:boom:     expolion
-:key:      clé etc...
-:1234:     digits
-:1st_place_medal:     medaille
-:muscle:   strong
+:+1:  
+:-1: 
+:shipit:   
+:sparkles: 
+:camel:    
+:boom:     
+:key:      
+:1234:     
+:1st_place_medal:    
+:muscle:   
 ````
 
-:+1:       pouce up   :-1: pouce down
-:shipit:   man ready
-:sparkles: etoiles
-:camel:    chameau
-:boom:     expolion
-:key:      clé etc...
-:1234:     digits
-:1st_place_medal:     medaille
-:muscle:   strong
+:+1:        
+:-1:
+:shipit:   
+:sparkles: 
+:camel:    
+:boom:     
+:key:      
+:1234:     
+:1st_place_medal:     
+:muscle:  
 
 
