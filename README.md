@@ -156,9 +156,10 @@ ___
 * IMAGES : 
 
 ````markdown
-![GitHub Logo](/images/logo.png)
-![Alt Text](/images/logo.png)
+![GitHub Logo](Octocat.png)
 ````
+![GitHub Logo](Octocat.png)
+
 
 * LINK ( CTRL + K ) :
 
