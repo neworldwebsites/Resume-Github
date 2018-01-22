@@ -125,6 +125,15 @@ Qui corrigera aussi dans develop
 * change > #num 
 * Pull request 
 
+> GIT PAGES
+
+* create branch gh-pages
+* default branch gh-pages
+* delete master branch
+* settings your link page url
+* git clone https://github/dir-to-clone.git 
+* git pull origin gh-pages
+
 ___
 
 
