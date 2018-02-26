@@ -273,8 +273,30 @@ function fancyAlert(arg) {
 * EMOJICODE :
 
 ````markdown
-:+1:  
-:-1: 
+:thumbsup:
+:-1:
+:thumbsdown:
+:ok_hand:
+:punch:
+:facepunch:
+:fist:
+:v:
+:wave:
+:hand:
+:raised_hand:
+:open_hands:
+:point_up:
+:point_down:
+:point_left:
+:point_right:
+:raised_hands:
+:pray:
+:point_up_2:
+:clap:
+:muscle:
+:metal:
+:fu:
+:runner:
 :shipit:   
 :sparkles: 
 :camel:    
@@ -285,8 +307,30 @@ function fancyAlert(arg) {
 :muscle:   
 ````
 
-:+1:        
+:thumbsup:
 :-1:
+:thumbsdown:
+:ok_hand:
+:punch:
+:facepunch:
+:fist:
+:v:
+:wave:
+:hand:
+:raised_hand:
+:open_hands:
+:point_up:
+:point_down:
+:point_left:
+:point_right:
+:raised_hands:
+:pray:
+:point_up_2:
+:clap:
+:muscle:
+:metal:
+:fu:
+:runner:
 :shipit:   
 :sparkles: 
 :camel:    
@@ -295,5 +339,8 @@ function fancyAlert(arg) {
 :1234:     
 :1st_place_medal:     
 :muscle:  
+
+[Emojis-Collection](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+
 
 
