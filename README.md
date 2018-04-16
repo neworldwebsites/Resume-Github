@@ -313,6 +313,9 @@ function fancyAlert(arg) {
 :ok_hand:
 :punch:
 :facepunch:
+:grinning:
+:grin:
+:sweat_smile:
 :fist:
 :v:
 :wave:
