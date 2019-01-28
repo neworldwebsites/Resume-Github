@@ -1,6 +1,6 @@
 					        	Github Quick Resume
 > [Visit Portofolio here](https://projets.neworldwebsites.fr/)
-# Git Basics |
+# Git Basics 
 > git help &nbsp; word-about<br>
 > git config --global user.name "gilius"<br>
 
